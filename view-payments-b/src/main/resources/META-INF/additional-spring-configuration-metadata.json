@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "app.version",
+    "type": "java.lang.String",
+    "description": "A description for 'app.version'"
+  },
+  {
+    "name": "app.v",
+    "type": "java.lang.String",
+    "description": "A description for 'app.v'"
+  },
+  {
+    "name": "app.context-port",
+    "type": "java.lang.String",
+    "description": "A description for 'server.servlet.context-port'"
+  },
+  {
+    "name": "app.context-port",
+    "type": "java.lang.String",
+    "description": "A description for 'app.context-port'"
+  }
+]}
